@@ -1,0 +1,6 @@
+{
+  "name": "Aura Luxe Fine Jewellery",
+  "description": "Haute Joaillerie mobile app for bespoke solitaires, certified diamonds, 3D AR virtual try-on, and real-time gold bullion tracking.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
